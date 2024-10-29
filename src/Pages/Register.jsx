@@ -7,7 +7,7 @@ import axios from "axios";
 import { BaseUrl } from "./../../BaseUrl";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import Logo from "./../assets/images/logo.png";
+import Logo from "./../assets/Images/logo.png";
 
 const Register = () => {
   const navigate = useNavigate();

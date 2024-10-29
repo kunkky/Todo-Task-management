@@ -8,7 +8,7 @@ import axios from "axios";
 import { BaseUrl } from "./../../BaseUrl";
 import { toast, ToastContainer } from "react-toastify";
 
-import Logo from "./../assets/images/logo.png";
+import Logo from "./../assets/Images/logo.png";
 
 const Login = () => {
   const [showPassword, setShowPassword] = useState(false);
