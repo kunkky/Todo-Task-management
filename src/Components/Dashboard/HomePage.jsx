@@ -20,6 +20,7 @@ const HomePage = () => {
       </nav>
 
       {/* Hero Section */}
+      {/* smosos */}
       <HeroSlider />
     </div>
   );
